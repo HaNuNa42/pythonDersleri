@@ -1,0 +1,2 @@
+# pythonDersleri
+Python ders notları
