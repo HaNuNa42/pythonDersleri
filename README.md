@@ -1,2 +1,2 @@
-# pythonDersleriBTK
+# pythonDersleri
 Python ders notları
